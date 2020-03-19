@@ -22,7 +22,8 @@ With the new provisioning model, those with the correct licenses can create an e
 
 1. Sign in to the Power Platform admin center at [https://admin.powerplatform.microsoft.com](https://admin.powerplatform.microsoft.com).
 2. Select the **Gear** icon (![Gear icon](media/selection-rule-gear-button.png)) in the upper-right corner of the Power Platform site.
-3. Select **Only specific admins**.
+3. Click on **Power Platform settings**
+4. Select **Only specific admins**.
 
    > [!div class="mx-imgBorder"] 
    > ![](./media/governance-setting.png "Specify Global admins")
